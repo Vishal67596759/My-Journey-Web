@@ -42,6 +42,7 @@ body {
     width: 300px;  /* Default logo size for larger screens */
     height: auto;  /* Maintain aspect ratio */
     padding-top: 10%;
+    margin-left: 20px;
 }
 
 .icon{
@@ -52,13 +53,14 @@ body {
     height: 20px;
 }
 .icon h3{
+    margin: 0px auto;
     align-items: center;
     color: White;  
     display: inline;
 }
 
 .icon img{
-    margin-left: 70px;
+    margin-left: 50px;
     margin-right: 10px;
 }
 
@@ -69,8 +71,12 @@ body {
     margin-right: 30%;
 }
 .motiv h1{
+    background-image: green;
     font-size: 30px;
     margin-bottom: 0px;
+}
+.div-under-motiv{
+    margin-left 20px;
 }
 .div-cpp{
     background-color: #222222;
@@ -78,7 +84,7 @@ body {
     display: inline-block;
     padding: 20px;
     width: 25%;
-    margin: 50px ;
+    margin: 30px ;
 }
 
 .div-program{
