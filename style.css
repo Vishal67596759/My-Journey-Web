@@ -58,7 +58,7 @@ body {
 }
 
 .icon img{
-    margin-left: 50px;
+    margin-left: 70px;
     margin-right: 10px;
 }
 
@@ -69,16 +69,8 @@ body {
     margin-right: 30%;
 }
 .motiv h1{
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 0px;
-}
-.motiv h3{
-    font-size: 10px;
-}
-
-.div-under-motiv{
-    margin-left: 5% ;
-    margin-right: 5% ;
 }
 .div-cpp{
     background-color: #222222;
@@ -86,7 +78,7 @@ body {
     display: inline-block;
     padding: 20px;
     width: 25%;
-    margin: 20px ;
+    margin: 50px ;
 }
 
 .div-program{
