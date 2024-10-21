@@ -58,11 +58,12 @@ body {
 }
 
 .icon img{
-    margin-left: 75px;
+    margin-left: 70px;
     margin-right: 10px;
 }
 
 .motiv{
+    font-size: 10px;
     color: white;
     margin-top: 150px;
     margin-left:8%;
@@ -74,10 +75,8 @@ body {
 }
 
 .div-under-motiv{
-    font-size:10px;
     margin-left: 5% ;
     margin-right: 5% ;
-    
 }
 .div-cpp{
     background-color: #222222;
@@ -86,7 +85,7 @@ body {
     padding: 10px;
     border-radius: 10px;
     width: 25%;
-    margin: 25px ;
+    margin: 10px ;
 }
 
 .div-program{
